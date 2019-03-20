@@ -1,7 +1,8 @@
-package com.edsusantoo.bismilah.androidjetpackarchitecture
+package com.edsusantoo.bismilah.androidjetpackarchitecture.ui.main
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
+import com.edsusantoo.bismilah.androidjetpackarchitecture.R
 
 class MainActivity : AppCompatActivity() {
 
