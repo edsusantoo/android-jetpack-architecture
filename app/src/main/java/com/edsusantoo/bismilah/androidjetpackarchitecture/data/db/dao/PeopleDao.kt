@@ -7,7 +7,7 @@ import androidx.room.Query
 import com.edsusantoo.bismilah.androidjetpackarchitecture.data.db.model.People
 
 @Dao
-interface PeopelDao {
+interface PeopleDao {
 
     // Select All
     @Query("SELECT * FROM People ORDER BY id DESC")
